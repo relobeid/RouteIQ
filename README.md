@@ -33,8 +33,8 @@ Traffic Simulation → Go API → AlloyDB → BigQuery → VertexAI
 
 - **[📋 MVP Development Plan](./docs/MVP_PLAN.md)** - Detailed 2-week roadmap with deliverables
 - **[🏗️ System Architecture](./docs/ARCHITECTURE.md)** - Technical specs and component design
-- **[🚀 Deployment Guide](./docs/DEPLOYMENT.md)** - Cloud infrastructure setup *(coming soon)*
-- **[📊 API Reference](./docs/API.md)** - Endpoint documentation *(coming soon)*
+- **[🚀 Deployment Guide](./docs/DEPLOYMENT.md)** - Cloud infrastructure setup
+- **[📊 API Reference](./docs/API.md)** - Endpoint documentation
 
 ---
 
