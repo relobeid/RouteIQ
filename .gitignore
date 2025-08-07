@@ -1,0 +1,15 @@
+# Node
+node_modules/
+.next/
+*.log
+
+# Go
+backend/api/api
+*.out
+
+# OS
+.DS_Store
+
+# Docker
+**/.env
+.env
