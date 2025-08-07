@@ -32,10 +32,10 @@ This plan breaks down RouteIQ development into 10 focused work sessions over 2 w
 - Unit tests for grid operations
 
 **Testing Metrics**:
-- [ ] Grid creates 400 total cells (20x20)
-- [ ] 4 intersections properly placed at grid positions
-- [ ] Grid coordinate system converts between (x,y) and grid IDs
-- [ ] Unit tests achieve >90% code coverage for grid logic
+ - [x] Grid creates 400 total cells (20x20)
+ - [x] 4 intersections properly placed at grid positions
+ - [x] Grid coordinate system converts between (x,y) and grid IDs
+ - [x] Unit tests achieve >90% code coverage for grid logic
 
 ---
 
@@ -51,10 +51,10 @@ This plan breaks down RouteIQ development into 10 focused work sessions over 2 w
 - Vehicle state management
 
 **Testing Metrics**:
-- [ ] Can spawn 100+ vehicles simultaneously
-- [ ] Vehicles have unique IDs and track position accurately
-- [ ] Traffic lights cycle properly (30s green, 5s yellow, 25s red)
-- [ ] Vehicle cleanup prevents memory leaks
+ - [x] Can spawn 100+ vehicles simultaneously
+ - [x] Vehicles have unique IDs and track position accurately
+ - [x] Traffic lights cycle properly (30s green, 5s yellow, 25s red)
+ - [x] Vehicle cleanup prevents memory leaks
 
 #### Session 4: Movement & Pathfinding
 **Deliverables**:
